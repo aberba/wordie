@@ -1,0 +1,26 @@
+App Name
+Simple description here
+_______________________________________________________
+
+Introduction
+
+eg. (SAMPLE BELOW)
+App Name is a fast and beautiful GTK3 video player with a focus on simplicity and speed. It handles all range of video formats, both proprietary and open source. App Name utilizes Granite for a consistent and slick UI.
+
+[Insert here a simple introduction which explains exactly the type of application, what it does and maybe the main framework it uses. You can use two or more paragraphs to separate your information.]
+
+
+_______________________________________________________
+
+Installation & Licensing
+
+Please consult the INSTALL and COPYING files for more information.
+_______________________________________________________
+
+Contact:
+    eg. (SAMPLE BELOW)
+    https://launchpad.net/appname
+    http://appname.org
+
+Please report suggestions and bugs to:
+    https://bugs.launchpad.net/appname

@@ -1,0 +1,21 @@
+{
+	"language_code":"ak",
+	"language_name":"Akan",
+	"words": 
+	{
+		"word":"Book",
+		"meanings": 
+		[
+			{
+				"meaning": "An $object made from paper bindings",
+				"type": "noun",
+				"variant":"American English",
+				"synonyms": ["novel", "panflect"],
+				"antonyms": ["gold", "diamond"],
+				"derivatives":[],
+				"familiarity": "rare",
+				"image": "image.svg"
+			}
+		]
+	}
+}

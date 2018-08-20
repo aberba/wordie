@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+77fa2a227c3e99ff86eb81af5275e08a CMakeFiles/uninstall
+3db1d401c6293c750b642e2b0d44ab60 src/Services/Settings.c
+2c88d92be4bee0f8378220588b2776a9 wordie_valac.stamp

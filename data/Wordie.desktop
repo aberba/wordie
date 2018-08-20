@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Wordie Dictionary
+Comment= A simple app
+Categories=Office;
+Exec=wordie %U
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Actions=AboutDialog;
+
+[Desktop Action AboutDialog]
+Exec=appname --about
+Name=About App Name

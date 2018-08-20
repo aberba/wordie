@@ -1,0 +1,2 @@
+/home/aberba/workspace/vala/wordie/build/CMakeFiles/uninstall.dir
+/home/aberba/workspace/vala/wordie/build/CMakeFiles/wordie.dir
